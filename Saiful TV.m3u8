@@ -1342,6 +1342,8 @@ https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/index.m3u8
 #EXTINF:-1 group-title="Sports",Sony Ten 5 [Backup 1]
 https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+#EXTINF:-1 group-title="Sports", Ten Cricket
+https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Sports",Speed Sports 1
 https://linear-599.frequency.stream/dist/stirr/599/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Sports",Sports First TV
