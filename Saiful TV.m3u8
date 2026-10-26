@@ -1,4 +1,116 @@
 #EXTM3U
+#EXTINF:-1, group-title="Radio Indian Bangla", Air FM Rainbow Kolkata 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/chunklist.m3u8
+#EXTINF:-1, group-title="Radio BB AM", BB AM 1053 Rongpur 
+http://as1.digitalsynapsebd.com:8622/stream?type=http&nocache=172
+#EXTINF:-1, group-title="Radio BB AM", BB AM 1161 Rangamati 
+http://as1.digitalsynapsebd.com:8409/stream?type=http&nocache=20
+#EXTINF:-1, group-title="Radio BB AM", BB AM 1287 Barishal 
+http://as1.digitalsynapsebd.com:8569/stream?type=http&nocache=68
+#EXTINF:-1, group-title="Radio BB AM", BB AM 1314 choxesbazar 
+http://as1.digitalsynapsebd.com:8065/stream?type=http&nocache=167
+#EXTINF:-1, group-title="Radio BB AM", BB AM 1413 Kumilla 
+http://as1.digitalsynapsebd.com:8430/stream?type=http&nocache=103
+#EXTINF:-1, group-title="Radio BB AM", BB AM 1431 Bandarban 
+http://as1.digitalsynapsebd.com:8238/stream?type=http&nocache=61
+#EXTINF:-1, group-title="Radio BB AM", BB AM 558 Khulna 
+http://as1.digitalsynapsebd.com:9248/stream?type=http&nocache=19
+#EXTINF:-1, group-title="Radio BB AM", BB AM 630 Dhaka 
+http://as1.digitalsynapsebd.com:8741/stream?type=http&nocache=384
+#EXTINF:-1, group-title="Radio BB AM", BB AM 693 Dhaka 
+http://as1.digitalsynapsebd.com:8582/stream?type=http&nocache=619
+#EXTINF:-1, group-title="Radio BB AM", BB AM 819 dhaka 
+http://as1.digitalsynapsebd.com:8446/stream?type=http&nocache=591
+#EXTINF:-1, group-title="Radio BB AM", BB AM 847/1080 Rajshahi 
+http://as1.digitalsynapsebd.com:9240/stream?type=http&nocache=298
+#EXTINF:-1, group-title="Radio BB AM", BB AM 873 CTG 
+http://as1.digitalsynapsebd.com:8920/stream?type=http&nocache=186
+#EXTINF:-1, group-title="Radio BB AM", BB AM 963 Sylhet 
+http://as1.digitalsynapsebd.com:8096/stream?type=http&nocache=336
+#EXTINF:-1, group-title="Radio BB AM", BB AM 999 Thakurga 
+http://as1.digitalsynapsebd.com:8358/stream?type=http&nocache=60
+#EXTINF:-1, group-title="Radio BB FM", BB FM 100.8  choxesbazar 
+http://as1.digitalsynapsebd.com:8114/stream?type=http&nocache=147
+#EXTINF:-1, group-title="Radio BB FM", BB FM 103.2 Rangamati 
+http://as1.digitalsynapsebd.com:8360/stream?type=http&nocache=53
+#EXTINF:-1, group-title="Radio BB FM", BB FM 103.6 Kumilla 
+http://as1.digitalsynapsebd.com:8428/stream?type=http&nocache=112
+#EXTINF:-1, group-title="Radio BB FM", BB FM 104.0 Dhaka 
+http://as1.digitalsynapsebd.com:8456/stream?type=http&nocache=191
+#EXTINF:-1, group-title="Radio BB FM", BB FM 105.2 Borishal 
+http://as1.digitalsynapsebd.com:8620/stream?type=http&nocache=54
+#EXTINF:-1, group-title="Radio BB FM", BB FM 88.8 CTG 
+http://as1.digitalsynapsebd.com:9236/stream?type=http&nocache=271
+#EXTINF:-1, group-title="Radio BB FM", BB FM 88.8 Khulna 
+http://as1.digitalsynapsebd.com:9252/stream?type=http&nocache=21
+#EXTINF:-1, group-title="Radio BB FM", BB FM 88.8 Rajshahi 
+http://as1.digitalsynapsebd.com:9244/stream?type=http&nocache=112
+#EXTINF:-1, group-title="Radio BB FM", BB FM 88.8 Rongpur 
+http://as1.digitalsynapsebd.com:8624/stream?type=http&nocache=112
+#EXTINF:-1, group-title="Radio BB FM", BB FM 88.8 Sylhet 
+http://as1.digitalsynapsebd.com:8246/stream?type=http&nocache=77
+#EXTINF:-1, group-title="Radio BB FM", BB FM 88.8 Trafik 
+http://as1.digitalsynapsebd.com:8263/stream?type=http&nocache=2
+#EXTINF:-1, group-title="Radio BB FM", BB FM 92 Bandorban 
+http://as1.digitalsynapsebd.com:8326/stream?type=http&nocache=25
+#EXTINF:-1, group-title="Radio BB FM", BB FM 92 gopalgonj 
+http://as1.digitalsynapsebd.com:8432/stream?type=http&nocache=20
+#EXTINF:-1, group-title="Radio BB FM", BB FM 92 Mymensingh 
+http://as1.digitalsynapsebd.com:8029/stream?type=http&nocache=15
+#EXTINF:-1, group-title="Radio BB FM", BB FM 92 Thakurga 
+http://as1.digitalsynapsebd.com:8276/stream?type=http&nocache=68
+#EXTINF:-1, group-title="Radio BB FM", BB FM 97.6 Dhaka 
+http://as1.digitalsynapsebd.com:8002/stream?type=http&nocache=2
+#EXTINF:-1, group-title="Radio Hindi", Bolly hits 
+https://az13.yesstreaming.net:8450/bollyhitsradio192kbps
+#EXTINF:-1, group-title="Radio Bangladesh Private", Dhaka FM 
+https://stream-161.zeno.fm/ay4pqkk604zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJheTRwcWtrNjA0enV2IiwiaG9zdCI6InN0cmVhbS0xNjEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkR6V3JFMXFhUlc2SS1nQjhVRFpvNEEiLCJpYXQiOjE3NTk4ODQwMDUsImV4cCI6MTc1OTg4NDA2NX0.-2Oo5DNP9Iw7XDIxxaSyxhlUBbKzjg-KbumJO_D6Xjs
+#EXTINF:-1, group-title="Radio Indian Bangla", Gitanjoli 
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8
+#EXTINF:-1, group-title="Radio Hindi", Hits of bollywod 
+https://stream-167.zeno.fm/60ef4p33vxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGVmNHAzM3Z4cXV2IiwiaG9zdCI6InN0cmVhbS0xNjcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik5QaXdrT3VoUzBlVG9pb3hwRWtUVWciLCJpYXQiOjE3NjgwNTk2OTgsImV4cCI6MTc2ODA1OTc1OH0.j5O9IUVq675liPpt-dwZt3CVxAGXVcadnP5_wnDg42I
+#EXTINF:-1, group-title="Radio Bangladesh Private", JKKNIU 
+https://stream.zeno.fm/risgdzpf1cxtv
+#EXTINF:-1, group-title="Radio Indian Bangla", Maitree 
+https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio24564kbps.m3u8
+#EXTINF:-1, group-title="Radio Misc", Mashal radio 
+https://stream-179.zeno.fm/mzuka1fdxzzuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtenVrYTFmZHh6enV2IiwiaG9zdCI6InN0cmVhbS0xNzkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IldZS2VhT2dNVDhpNDZWTWxsY1FRd2ciLCJpYXQiOjE3NTk4ODYyODMsImV4cCI6MTc1OTg4NjM0M30.pFMREFV18gqfebzsVRr-7DhesEhfq1MQjx99aqybarQ
+#EXTINF:-1, group-title="Radio Indian Bangla", MY RADIO DJ 
+https://stream.zeno.fm/84h97t3ewg0uv
+#EXTINF:-1, group-title="Radio Bangladesh Private", Peoples Radio 
+https://s3.myradiostream.com:14498/;
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Bhumi 92.8 
+https://stream.zeno.fm/ybf1umk1k18uv
+#EXTINF:-1, group-title="Radio Hindi", Radio bolly 1990s 
+https://stream-156.zeno.fm/rm4i9pdex3cuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJybTRpOXBkZXgzY3V2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjU0SWFfU1lCVE9LUjJLTm1ybm9Va3ciLCJpYXQiOjE3NjgwNjAyNTAsImV4cCI6MTc2ODA2MDMxMH0.Krd2DOuHfNaN-LUNnd-jQWyZd1BoQePsw68tLKImW9I
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Foorti 88.0 
+https://stream-177.zeno.fm/cwa3vg8s8druv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJjd2Ezdmc4czhkcnV2IiwiaG9zdCI6InN0cmVhbS0xNzcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZaaFBOdmlwVHRPTG01b3FoeXJ6NnciLCJpYXQiOjE3NzM3NjA2OTAsImV4cCI6MTc3Mzc2MDc1MH0.9vqvMBzWySAg7yT4rV3b5OE3PBnhgS82cZmQNCYoQZM
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Gun Gun 
+https://audio.streamcast.xyz/radio/8000/radio.mp3?
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Jamuna 
+https://stream.zeno.fm/pcmmlmkpvmmvv
+#EXTINF:-1, group-title="Radio Hindi", Radio Mirchi 98.3 FM  
+https://eu8.fastcast4u.com/proxy/clyedupq?mp=%2F1?aw_0_req_lsid=2c0fae177108c9a42a7cf24878625444
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Padma 99.2 
+https://radiopadmabd.radioca.st/radiopadma
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Shadhin 92.4 
+https://stream.zeno.fm/eabgu655puquv
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Theater Bangla 
+https://stream-153.zeno.fm/hrawdb5yx8ovv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJocmF3ZGI1eXg4b3Z2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNvcTdtc0tyVF91S1h4Y3BYdWZTYUEiLCJpYXQiOjE3NjgwNTg5OTIsImV4cCI6MTc2ODA1OTA1Mn0.k7cXsLa48gX7qMRhsvODCo3clRFZss4oJTsfb19er40
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio today 89.6 
+https://stream-140.zeno.fm/0zha3rfq02quv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwemhhM3JmcTAycXV2IiwiaG9zdCI6InN0cmVhbS0xNDAuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InBjRzBzVTRDVHdTRzlvWlctcHB1eHciLCJpYXQiOjE3NTk4ODYwMDMsImV4cCI6MTc1OTg4NjA2M30.8U6fMS2p22_9h_VRPNu0utDBIPzESeXwvEmdNeuPagw
+#EXTINF:-1, group-title="Radio Bangladesh Private", Rajshahi FM 
+https://stream-153.zeno.fm/nxfshdayjrdvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJueGZzaGRheWpyZHZ2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjZ2VkJKWU45UW9xUy1aNXc2RXlwTUEiLCJpYXQiOjE3NzM3NjA1MjgsImV4cCI6MTc3Mzc2MDU4OH0.V2hyl14Ycr2plX3ftxF7OX3dAVCnxFq-BhLd5dVBdb0
+#EXTINF:-1, group-title="Radio Indian Bangla", Shiliguri 711 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/chunklist.m3u8
+#EXTINF:-1, group-title="Radio Indian Bangla", Shilong 864 
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8
+#EXTINF:-1, group-title="Radio Bangladesh Private", Spice FM 96.4 
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1, group-title="Radio Bangladesh Private", Vivid Voice (Mymensingh) 
+https://stream.zeno.fm/xuin6ocdc2juv
+#EXTINF:-1, group-title="Radio Bangladesh Private", Radio Jhinuk (Jhenaidah) 
+https://centova92.instainternet.com/proxy/radiojhenuk?mp=/stream/;stream.mp3%20type=
 #EXTINF:-1 group-title="BD Entertainment",Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 group-title="BD Entertainment",Asian TV
